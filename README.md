@@ -21,24 +21,6 @@ I graduated from University of Alberta in December 2025 with a BSc. Specializati
 - 📧 **Email**: [iftemumraian@gmail.ca](mailto:iftemumraian@gmail.ca)
 - 💼 **LinkedIn**: [linkedin.com/in/iftemum-raian](https://linkedin.com/in/iftemum-raian)
 
-## 🎯 Featured Projects
-
-### [Fluenty - Language Learning Platform](https://youtu.be/N_T5LnHEnsg?si=LJXohXDsvFchV1Ba)
-A comprehensive web platform connecting native Canadian English instructors with Brazilian students. Features real-time video sessions, progress tracking, quiz management, and automated scheduling.
-- **Role**: Full Stack Developer (Scrum Master)
-- **Tech**: React, Django, PostgreSQL, Docker, Zoom API, Google Auth, SendGrid, GitHub Actions, SonarQube
-- **Achievements**: Led 8-member Agile team, achieved 'A' ranking in code quality (reliability, security, maintainability)
-
-### [QuickScanPro - Event Management App](https://github.com/iftemum/QuickScanQuestPro)
-Android application enabling organizers to host events and attendees to discover nearby activities. Features QR code check-ins, geolocation heatmaps, and real-time attendee tracking.
-- **Tech**: Java, Android Studio, Firebase Firestore, Google ML Kit, Espresso
-- **Key Features**: Custom QR codes, Interactive heatmaps, Role-based access control
-
-### [StarCraft II AI Bot](https://github.com/iftemum/StarCraftIIBot)
-Competitive AI bot implementing Protoss Stalker Rush strategy with advanced scouting and attack patterns.
-- **Tech**: C++, Blizzard Game API
-- **Achievement**: 70% win rate vs CheatMoney/CheatVision difficulties, 4th place in class competition
-
 
 ## 🛠️ Tech Stack
 
