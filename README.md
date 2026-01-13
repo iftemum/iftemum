@@ -18,9 +18,6 @@ I graduated from University of Alberta in December 2025 with a BSc. Specializati
 - 💡 **Specializations**: Algorithms, Data Structures, Software Quality, Software Engineering
 - 🌱 **Mission**: Building sustainable technology for positive environmental impact
 - 📍 **Location**: Edmonton, AB
-- 📧 **Email**: [iftemumraian@gmail.ca](mailto:iftemumraian@gmail.ca)
-- 💼 **LinkedIn**: [linkedin.com/in/iftemum-raian](https://linkedin.com/in/iftemum-raian)
-
 
 ## 🛠️ Tech Stack
 
